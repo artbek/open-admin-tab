@@ -1,7 +1,7 @@
 {
 	"name": "Open Admin Tab",
-	"version": "0.1",
-	"description": "",
+	"version": "0.2",
+	"description": "Open CMS/Admin location for the currently loaded site.",
 	"icons": {
 		"16": "img/open_admin_tab_16.png",
 		"48": "img/open_admin_tab_48.png",
